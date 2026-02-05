@@ -1,4 +1,4 @@
-
+![logo](GITHUB.png)
 <h1 align="center">Hi 👋, I'm Thanush M N</h1>
 <h3 align="center">A passionate frontend developer from Bengaluru, India</h3>
 

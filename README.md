@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/thanushmn29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanushmn29" height="30" width="40" /></a>
 <a href="https://kaggle.com/thanushmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thanushmn" height="30" width="40" /></a>
-<a href="https://fb.com/thanushmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanushmn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100087620303804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanushmn" height="30" width="40" /></a>
 <a href="https://instagram.com/thanush_gowda_mn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanush_gowda_mn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Thanushmn29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Electron Viewpoint" height="30" width="40" /></a>
 </p>
